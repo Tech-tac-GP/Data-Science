@@ -1,4 +1,4 @@
-# Tech-tac — Data Science
+# Tech-tac - Data Science
 
 ## Project Overview
 
