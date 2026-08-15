@@ -36,7 +36,7 @@ Each row represents an event performed by a customer.
 
 ---
 
-## 🧹 Data Cleaning & Preparation
+## Data Cleaning & Preparation
 
 The dataset was prepared before performing the exploratory analysis.
 
